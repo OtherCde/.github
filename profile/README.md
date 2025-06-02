@@ -1,4 +1,4 @@
-# Other Code
+# OtherCode
 
 Breve descripción de qué hace tu organización.
 
