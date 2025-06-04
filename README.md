@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <!--  ![Logo](./OtherCode.png)  -->
 <p align="center" style="background-color = black;">
   <img src="./OtherCode.png" alt="Logo" width="200" />
@@ -71,5 +69,4 @@ En **OTHER CODE**, trabajamos con un stack tecnológico moderno y versátil, lo 
   💼 <a href="https://linkedin.com/company/empresa" target="_blank">LinkedIn</a>
 </p>
 -->
->>>>>>> 34d1bd4 (Readme)
 
